@@ -6,6 +6,7 @@ import { RadioGroup, RadioGroupItem} from "@/components/ui/radio-group"
 import { ScrollArea } from "@/components/ui/scroll-area"
 import { MagnifyingGlassIcon, MixerHorizontalIcon } from "@radix-ui/react-icons"
 import { useState } from "react"
+import ProjectCard from "../Project/ProjectCard"
 
 
 
@@ -95,8 +96,8 @@ const ProjectList = () => {
             <div>
                 <div className="space-y-5 min-h-[74vh]">
                     {
-                        Keyword?[1,1,1].map((item)=><div key={item}>project card</div>):
-                        [1,1,1,1].map((item)=><div key={item}>project card</div>)
+                        Keyword?[1,1,1].map((item)=><ProjectCard key={item}/>):
+                        [1,1,1,1].map((item)=><ProjectCard key={item}/>)
                             
 
                     }
