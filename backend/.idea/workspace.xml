@@ -21,12 +21,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DorraNsir"
-  }
-}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -107,7 +101,7 @@
       <workItem from="1716496616090" duration="1839000" />
       <workItem from="1716534373487" duration="21637000" />
       <workItem from="1716613975288" duration="9100000" />
-      <workItem from="1716655533082" duration="790000" />
+      <workItem from="1716655533082" duration="472000" />
     </task>
     <servers />
   </component>
