@@ -2,7 +2,7 @@ import ProjectList from "../ProjectList/ProjectList"
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-violet-50">
       <ProjectList/>
     </div>
   )
